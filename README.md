@@ -1,6 +1,6 @@
 # Taquilla_Cine
 
-![](https://github.com/adryCrespo/Taquilla_Cine/Movies.jpg)
+![](https://github.com/adryCrespo/Taquilla_Cine/blob/main/Movies.jpg)
 
 Este proyecto trata de predecir la recaudacion de películas. Para ello usa datos de muchos tipos como economicos, temporales, de cast de personajes , etc...
 De esta forma este proyecto se enmarca dentro de un framework de un problema de regresión de machine learning.
